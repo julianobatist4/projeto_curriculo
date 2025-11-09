@@ -1,0 +1,31 @@
+ETAPA 1 - Texto para colar no AVA (PDF das telas)
+
+Prezada equipe avaliadora,
+
+Anexo o PDF com os esboços (Figma) das telas desenvolvidas para a atividade: Formulário do currículo, exemplo de experiência dinâmica e tela do currículo gerado.
+
+Atenciosamente,
+[SEU NOME] - RA [SEU RA]
+
+---
+
+ETAPA 2 - Texto para colar no AVA (Link do repositório)
+
+Prezada equipe avaliadora,
+
+Segue o link do repositório público com o código do projeto (APO):
+https://github.com/SEU_USUARIO/projeto-curriculo
+
+Atenciosamente,
+[SEU NOME] - RA [SEU RA]
+
+---
+
+ETAPA 3 - Texto para colar no AVA (Link do vídeo)
+
+Prezada equipe avaliadora,
+
+Segue o link do vídeo demonstrativo (YouTube - Não Listado) com apresentação e demonstração do sistema.
+
+Atenciosamente,
+[SEU NOME] - RA [SEU RA]
