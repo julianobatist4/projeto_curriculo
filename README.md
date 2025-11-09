@@ -1,25 +1,42 @@
-# Gerador de Currículo - APO (Versão Final)
+# Gerador de Currículos – Projeto Final da APO
+Projeto desenvolvido por **Juliano Batista** para a disciplina **Fundamentos de Programação para Internet** – UNIPAR EAD.
 
-Projeto desenvolvido para a Atividade Prática Orientada (APO) da disciplina **Fundamentos de Programação para Internet** - UNIPAR EAD.
+O sistema gera um currículo completo com base nas informações inseridas pelo usuário, aplicando HTML, CSS, JavaScript, PHP e Bootstrap.
 
-## Objetivo
-Desenvolver uma aplicação web simples que permita ao usuário preencher um formulário com dados pessoais e profissionais e gerar um currículo em HTML, com opção de imprimir/salvar em PDF via navegador.
+## Funcionalidades
+- Cadastro de dados pessoais e cálculo automático da idade
+- Adição dinâmica de experiências profissionais
+- Remoção de experiências
+- Geração automática de currículo em PHP
+- Download/Impressão do currículo (window.print)
+- Interface responsiva com Bootstrap
 
-## O que está incluso neste pacote
-- index.php — formulário principal (Bootstrap)
-- php/gerar.php — processamento e montagem do currículo (PHP)
-- js/scripts.js — cálculo de idade e adição/remoção de experiências dinamicamente
-- css/style.css — estilos mínimos
-- docs/figma_mockup.pdf — PDF com as telas (esboço para Etapa 1)
-- docs/AVA_texts.txt — textos prontos para colar no AVA (etapas 1, 2 e 3)
-- README.md — este arquivo
+## Tecnologias
+PHP 8+, HTML5, CSS3, Bootstrap 5, JavaScript, XAMPP, Git/GitHub
 
-## Como executar (XAMPP)
-1. Copie a pasta `projeto_apofinal_unipar` para `C:\xampp\htdocs\` (Windows).
-2. Inicie o Apache no painel do XAMPP.
-3. Acesse no navegador: `http://localhost/projeto_apofinal_unipar/index.php`
-4. Preencha o formulário e clique em "Gerar Currículo".
-5. Na página gerada, clique em "Baixar / Imprimir" para salvar como PDF.
+## Estrutura
+projeto_curriculo/
+│── index.php
+│── README.md
+│── css/style.css
+│── js/scripts.js
+│── php/gerar.php
 
+## Execução
+1. Copie a pasta para `C:\xampp\htdocs\projeto_curriculo`
+2. Inicie o Apache no XAMPP
+3. Acesse `http://localhost/projeto_curriculo`
+4. Preencha o formulário e gere seu currículo
 
+## Versionamento
+git init
+git add .
+git commit -m "Primeiro commit - gerador de currículos"
+git branch -M main
+git remote add origin https://github.com/julianobatist4/projeto_curriculo.git
+git push -u origin main
 
+## Autor
+**Juliano Batista**
+Estudante de Defesa Cibernética – UNIPAR EAD
+GitHub: [julianobatist4](https://github.com/julianobatist4)
