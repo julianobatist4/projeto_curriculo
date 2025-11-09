@@ -21,7 +21,5 @@ Desenvolver uma aplicação web simples que permita ao usuário preencher um for
 4. Preencha o formulário e clique em "Gerar Currículo".
 5. Na página gerada, clique em "Baixar / Imprimir" para salvar como PDF.
 
-## Observações
-- O projeto foi construído com foco nos requisitos da atividade (simples e funcional).
-- Substitua os campos de exemplo (ex.: [SEU NOME], [SEU POLO]) antes de enviar ao AVA, se desejar.
+
 
